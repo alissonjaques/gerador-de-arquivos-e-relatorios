@@ -1,0 +1,33 @@
+0175641170006025          990320211224                                                                                                                                                                  
+1C0000934380ADEILSON VENTURA MIRANDA                99999999999999            000                    SALARIO   00000000000140476          000NSALARIO                                                   
+1C0000934372ADELIANE GOMES DOS SANTOS               99999999999999            000                    SALARIO   00000000000080250          000NSALARIO                                                   
+1C0000920886ANA HILZA MUNIZ DAS NEVES               99999999999999            000                    SALARIO   00000000000109240          000NSALARIO                                                   
+1C0000934526ANDREIA OLIVEIRA DE CARVALHO            99999999999999            000                    SALARIO   00000000000075374          000NSALARIO                                                   
+1C0000920916CAMILA SANTOS BATISTA                   99999999999999            000                    SALARIO   00000000000202928          000NSALARIO                                                   
+1C0000934534CICERO ARAUJO FERNANDES                 99999999999999            000                    SALARIO   00000000000069839          000NSALARIO                                                   
+1C0000935000DANIELE ROSELANE SANTOS                 99999999999999            000                    SALARIO   00000000000093179          000NSALARIO                                                   
+1C0000935204EDILSON SOARES GONCALVES                99999999999999            000                    SALARIO   00000000000038909          000NSALARIO                                                   
+1C0086530011EVALDO RAMOS MOREIRA                    99999999999999            000                    SALARIO   00000000000200173          000NSALARIO                                                   
+1C0000921203GABRIEL MENDONCA DE OLIVEIRA            99999999999999            000                    SALARIO   00000000000160411          000NSALARIO                                                   
+1C0000924830IVAN WESLEY BERNARDO SILVA              99999999999999            000                    SALARIO   00000000000096049          000NSALARIO                                                   
+1C0000924652IVANETE CARDOSO DE OLIVEIRA             99999999999999            000                    SALARIO   00000000000098514          000NSALARIO                                                   
+1C0000921254JESIEL RAMOS DE FREITAS                 99999999999999            000                    SALARIO   00000000000223969          000NSALARIO                                                   
+1C0000925055JONATHAS PEREIRA GOMES                  99999999999999            000                    SALARIO   00000000000103323          000NSALARIO                                                   
+1C0000920983LUCIRLENE FERREIRA CORDEIRO DE ANDRADE  99999999999999            000                    SALARIO   00000000000127591          000NSALARIO                                                   
+1C0000934321LUNARA OLIVEIRA DE CARVALHO SANTOS      99999999999999            000                    SALARIO   00000000000098279          000NSALARIO                                                   
+1C0000921297MARIA DO ROSARIO MARTINS DE MACEDO      99999999999999            000                    SALARIO   00000000000117342          000NSALARIO                                                   
+1C0000921300MARILIA ALVES DOS SANTOS LAGO           99999999999999            000                    SALARIO   00000000000105706          000NSALARIO                                                   
+1C0000952257MELISSA NATANY ARAUJO                   99999999999999            000                    SALARIO   00000000000075739          000NSALARIO                                                   
+1C0000924997MONICA DE JESUS LOPES                   99999999999999            000                    SALARIO   00000000000109240          000NSALARIO                                                   
+1C0000934348PATRICIA DOS SANTOS GUEDES              99999999999999            000                    SALARIO   00000000000104968          000NSALARIO                                                   
+1C0000924849ROBE MARTINS CARDOSO                    99999999999999            000                    SALARIO   00000000000158682          000NSALARIO                                                   
+1C0000140791ROSANA DOS SANTOS CARVALHO              99999999999999            000                    SALARIO   00000000000089348          000NSALARIO                                                   
+1C0000921114ROSILENE APARECIDA PINHEIRO RODRIGUES   99999999999999            000                    SALARIO   00000000000109240          000NSALARIO                                                   
+1C0000924857ROSILENE SOUSA DA SILVA                 99999999999999            000                    SALARIO   00000000000097343          000NSALARIO                                                   
+1C0000964190SAMUEL ALMEIDA MENDONCA                 99999999999999            000                    SALARIO   00000000000066311          000NSALARIO                                                   
+1C0000924890SIDNEY RODRIGUES SOARES                 99999999999999            000                    SALARIO   00000000000119400          000NSALARIO                                                   
+1C0000921130TAIS SANTOS DE ANDRADE                  99999999999999            000                    SALARIO   00000000000081597          000NSALARIO                                                   
+1C0000924636TATIANE SALES OLIVEIRA                  99999999999999            000                    SALARIO   00000000000097131          000NSALARIO                                                   
+1C0000924563VALDIR BARBOSA NUNES JUNIOR             99999999999999            000                    SALARIO   00000000000122849          000NSALARIO                                                   
+1C0000934097WANDERSON DE ARAUJO FERREIRA            99999999999999            000                    SALARIO   00000000000097576          000NSALARIO                                                   
+900000000000000000000000003100000000003470976                                                                                                                                                           
